@@ -3,6 +3,7 @@
 /**
  * main- prints the given input and returns with value
  * Return (1) (sucess)
+ * int main -returns value of an interger
  */
 int main(void)
 {
