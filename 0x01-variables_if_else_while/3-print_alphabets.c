@@ -1,13 +1,11 @@
 #include <stdio.h>
 /**
  * Main-entry point
- *
- * Description- program prints lower and uppercase
- * int main -returns a void interger
+ * Description: program prints lower and uppercase
+ * main: returns a void interger
  * Return: -always (0) value
  */
 int main(void)
-
 {
 	char high;
 
