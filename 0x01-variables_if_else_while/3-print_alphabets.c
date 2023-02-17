@@ -1,9 +1,8 @@
 #include <stdio.h>
 /**
  * Main-entry point
- * Description: program prints lower and uppercase
- * main: returns a void interger
- * Return: -always (0) value
+ * Description - returns a void interger
+ * Return: (0) always (success)
  */
 int main(void)
 {
