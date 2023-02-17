@@ -6,9 +6,7 @@
 /* betty style doc for function main goes there */
 /**
  * main -Entry point
-
  *Description -This program will assign a random number to the variable n
-
  * Return: always (0)(success)
  */
 
