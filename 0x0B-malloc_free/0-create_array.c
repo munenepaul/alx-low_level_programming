@@ -15,16 +15,16 @@ char *create_array(unsigned int size, char c)
 	unsigned int i;
 	char *iArray;
 
-	if (size = 0)
+	if (size == 0)
 		return (NULL);
-	/* returns a pointer to the allocated memory */
 
-	iArray = malloc(size *sizeof(char));
+	/* returns a pointer to the allocated memory */
+	iArray = malloc(size * sizeof(char));
 
 	if (iArray == NULL)
 		return (NULL);
 
-			i = 0;
+	i = 0;
 	while (i < size)
 	{
 		iArray[i] = c;
